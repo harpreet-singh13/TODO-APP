@@ -5,7 +5,7 @@
 * Save user data in local storage
 
 # Live App:-
-https://ticketmanagement-app.netlify.app/
+https://liveticketapp.netlify.app/
 
 
 # Demo :-
