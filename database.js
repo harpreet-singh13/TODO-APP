@@ -2,7 +2,6 @@ let myDB = window.localStorage;
 let ticketsContainer = document.querySelector(".tickets-container");
 let allFilterClasses = ["red", "blue", "green", "yellow", "black"];
 
-
 function loadTickets() {
     let allTickets = myDB.getItem("allTickets");
     if (allTickets) {
