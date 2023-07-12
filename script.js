@@ -8,8 +8,6 @@ let ticketModalOpen = false;
 let isTextTyped = false;
 
 
-
-
 for (let i = 0; i < allFilters.length; i++) {
     allFilters[i].addEventListener("click", selectFilter);
 }
