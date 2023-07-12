@@ -70,7 +70,6 @@
     /* justify-content: space-evenly;
       align-items: center; */
 }
-
 .ticket-actions div {
     height: 100%;
     width: 50%;
@@ -79,7 +78,6 @@
     align-items: center;
     border-radius: 10px;
 }
-
 .ticket-actions div:hover {
     background-color: #636e72;
 }
